@@ -9,6 +9,7 @@
 ### 트랜스포머 아키텍처부터 RAG 개발, 모델 학습, 배포, 최적화, 운영까지
 ### 라마인덱스(LlamaIndex)와 LLM을 활용한 AI 애플리케이션 개발의 모든 것
 <br/>
+
 ## ★ 정오표: https://www.onlybook.co.kr/entry/llm-errata 
 <br/>
 
